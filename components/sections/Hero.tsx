@@ -18,7 +18,7 @@ export default function Home() {
             <div className="hero-info">
                 <h3 data-aos="flip-left">Hi, I am</h3>
                 <h1 data-aos="flip-left">Abhinav Barwal</h1>
-                <p data-aos="flip-left">Front-end Developer / UI | UX Developer</p>
+                <p data-aos="flip-left">UI/UX Designer & Frontend Developer</p>
                 <div className="social-tabs" data-aos="fade-up">
                     <Link href="" className="mail-tab" data-aos="fade-up"><i className="fa-solid fa-at"></i></Link>
                     <Link href="https://github.com/Abhinav-Barwal" className="git-tab" data-aos="fade-up"><i className="fa-brands fa-github"></i></Link>
