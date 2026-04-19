@@ -30,7 +30,7 @@ export default function Portfolio() {
                                 <Link href="https://nike-shoes-beta-app.vercel.app/" className="visit"><i className="bi bi-link-45deg"></i></Link>
                                 <div className="description">
                                     <p className="name name-heading">Nike Shoes Clone</p>
-                                    <p className="name name-body">Nike-inspired store built with Next.js</p>
+                                    <p className="name name-body">Nike-inspired store built with Next.js <strong>(Use Sign-up to Enter)</strong></p>
                                 </div>
                             </div>
                         </div>

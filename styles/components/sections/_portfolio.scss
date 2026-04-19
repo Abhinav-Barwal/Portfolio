@@ -91,6 +91,10 @@
                             .name-body {
                                 font-size: 14px;
                                 color: $dark-grey;
+                                strong {
+                                    color: $text-red;
+                                    font-weight: 500;
+                                }
                             }
                         }
                     }
