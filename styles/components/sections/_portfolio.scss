@@ -83,8 +83,15 @@
                                 }
                             }
                         }
-                        .name {
-                            text-align: center;
+                        .description {
+                            .name {
+                                text-align: center;
+                                margin-bottom: 8px;
+                            }
+                            .name-body {
+                                font-size: 14px;
+                                color: $dark-grey;
+                            }
                         }
                     }
                     &:hover {
